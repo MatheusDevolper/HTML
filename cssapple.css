@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.linksmenu{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI';
+}
+a{
+    text-decoration: none;
+  
+
+}
+header{
+    height: 49px;
+    background-color: black;
+    text-align: center;
+    
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    
+}
+
+.imagem{
+    width: 40px;
+    
+}
+.sectioncelulares{
+
+    display: flex;
+    justify-content: center;}
+
+    .iphonepro{
+        width: 100%;
+        height: 100px;
+        background-color: black;
+    }
